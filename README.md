@@ -1,4 +1,4 @@
-# GitHub Actions: Mastering Workflow Automation and CI/CD
+# GitHub Actions: Automating Workflows & CI/CD Pipelines
 Welcome to my GitHub repository, where I showcase my hands-on experience from the *GitHub Actions - The Complete Guide* course. This project highlights the practical use of various tools and technologies, including CI/CD workflows, cloud integration, backend and frontend development, and data handling.
 
 The repository contains course materials, configurations, and code demonstrating my application of **CI/CD**, **cloud deployment**, **backend APIs**, and **frontend applications**. The main goal is to illustrate the implementation of GitHub Actions in an end-to-end software development pipeline, emphasizing automation, efficiency, and industry best practices.
