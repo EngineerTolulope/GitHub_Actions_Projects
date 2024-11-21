@@ -1,0 +1,9 @@
+APIs & Data Handling: REST APIs, JSON, Boto, cURL
+Backend Development: Node.js, Express.js
+CI/CD & DevOps Tools: GitHub Actions, Docker, Bash, Ubuntu, CI/CD pipelines
+Cloud Services: AWS (S3, IAM/OpenID)
+Database Management: MongoDB, MongoDB Atlas
+Frontend Development: HTML, CSS, JavaScript, React.js
+Package Management: Node Package Manager (NPM)
+Scripting & Configuration: YAML
+Version Control & Workflow: Git, GitHub, GitHub Actions
